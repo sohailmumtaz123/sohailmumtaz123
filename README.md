@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-I'm Sohail Mumtaz, a Software Engineer 🏆, Wordpress Developer and GCP Expert. I have one year of experience in Zekab (PVT) Ltd as a Wordpress Developer and 3+ years of experience in freelancing. I have been started freelancing since 2019 on freelance platforms like Fiverr and Upwork. I'm a Top Rated Seller⚡ on Upwork and a Level 2 Seller⚡ on Fiverr. 
+I'm Sohail Mumtaz, a Software Engineer 🏆, WordPress Developer with 5+ years of experience in crafting websites with my creative touch. I'm a Top Rated Seller⚡ on Upwork and a Level 2 Seller⚡ on Fiverr. 
+
+👋 I'm a WordPress Expert highly skilled in Elementor, Divi, Woocommerce, Figma to WordPress conversion, and SEO Optimization. With more than 5 years of experience under my belt, I will provide you with Fast, Secure, Responsive & fully Optimized WordPress websites.
 
 I'm providing services in the following fields:
 
-- Web Technologies: Html, CSS, CSS3, Html5, Bootstrap, JavaScript, Jquery, Php, MySQL.
+- Web Technologies: Html, SCSS, Html5, Bootstrap, JavaScript, Jquery, Php, MySQL.
 - Ecommerce: Wordpress , Shopify
 - Wordpress: Custom theme/Plugin development.
-- Expert in page builders Elementor, wpbakery, Divi, Oxygen, Revolution slider
-- Experience in making hotel booking, appointment booking and business listing websites in wordpress.
+- Expert in page builders Elementor, wpbakery, Divi, Oxygen, Revolution slider.
+- Figma to WordPress conversion, and SEO Optimization. 
+- Experience in making hotel booking, appointment booking, and business listing websites in WordPress.
 - Designing Tool: Expert in Photoshop, Figma
 - CRM: HubSpot
 - Software management tools: Jira Software
-
-
-  Linkedin: <a href="https://www.linkedin.com/in/sohail-mumtaz749"> Sohail Mumtaz <a><br>
-  Upwork: <a href="https://www.upwork.com/freelancers/~01a97b824cbe7597cc"> Upwrok </a>
 
 Thanks for visiting!
 ☁️🤙💪
